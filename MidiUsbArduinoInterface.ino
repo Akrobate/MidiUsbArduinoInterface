@@ -1,4 +1,4 @@
-/**
+/***
  *         __  __ ___ ____ ___   _   _ ____  ____
  * __/\__ |  \/  |_ _|  _ \_ _| | | | / ___|| __ )
  * \    / | |\/| || || | | | |  | | | \___ \|  _ \
@@ -11,6 +11,9 @@
  *   |___|_| |_|\__\___|_|  |_|  \__,_|\___\___|
  *
  *  Midi to USB Interface
+ *
+ *  Autor: Artiom FEDOROV
+ *  Licence: Mit
  *
  *  Allow you to interface a midi device output with a usb midi
  *  recongnized as a standart midi device on your computer
