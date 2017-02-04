@@ -15,9 +15,11 @@
 
 ## Introduction
 
-This program allow you to interface a midi device output with a USB midi recongnized as a standart Midi Device on your computer. You will need to get [MIDI librairy](https://www.pjrc.com/teensy/td_libs_MIDI.html) installed on your environment 
+This program allow you to interface a midi device output with a USB midi recongnized as a standart Midi Device on your computer. You will need to get [MIDI librairy](https://www.pjrc.com/teensy/td_libs_MIDI.html) installed on your environment
 
 ## Hardware
+
+![Teensy usb to midi schematic](https://cloud.githubusercontent.com/assets/1587131/22621869/288e575e-eb2e-11e6-89ce-96bfae4d8423.gif)
 
 Works with arduino series boards
 Tested on a Teensy 2 ++
